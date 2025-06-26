@@ -8,43 +8,49 @@ Set up your Brother printer in minutes with the latest 2025 drivers. Whether it'
 
 .. image:: activatenow.png
    :alt: brother printer drivers
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
-
+   :target: https://fm.ci?aHR0cHM6Ly9icm90aGVyZHJpdmVyLWhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 ========================================
 Step-by-Step Brother Driver Installation for Windows 11 and 10
 ========================================
 
 Installing your Brother printer drivers on Windows is very easy. Even a kid can do it by following these steps one by one:
-Step-by-Step Instructions:
------------------------------------------
 
 1. Know Your Printer Model
+
 ➤ Look at your printer. You will see something like "Brother HL-L2321D" or "Brother DCP-T510W."
 
 2. Go to the Official Brother Website
+
 ➤ Open your browser and type: https://support.brother.com
 
 
 3. Search Your Printer Model
+
 ➤ Type the printer model in the search bar and press Enter.
 
 4. Choose Your Operating System
+
 ➤ Select either Windows 11 or Windows 10, whichever you're using.
 
 
 5. Click on “Full Driver & Software Package”
+
 ➤ This is the best option. Click “Download.”
 
 6. Open the Downloaded File
+
 ➤ Go to your Downloads folder. Double-click the file.
 
 7. Follow the On-Screen Instructions
+
 ➤ Click "Next" and "Install." Just keep clicking "Next" until you see “Finish.”
 
-8. Restart Your Computer (Optional but Good)
+8. Restart Your Computer
+
 ➤ It helps your PC detect the printer better.
 
 9. Try a Test Print
+
 ➤ Print a test page to make sure everything works.
 
 
@@ -55,22 +61,23 @@ Fix “Driver Unavailable” or “Cannot Connect to Printer” Issues
 
 Sometimes, your Brother printer shows errors like “Driver Unavailable” or “Cannot Connect to Printer.” Don't worry. These can be fixed at home with simple steps:
 
-Easy Fixes You Can Try:
------------------------------------------
-
-
 1. Unplug and Reconnect Your Printer
+
 ➤ Turn off the printer, unplug the USB or Wi-Fi, wait 10 seconds, and plug it back in.
 
 
 2. Reinstall the Brother Printer Driver
+
 ➤ Go to support.brother.com, download the latest driver again, and install it.
 
 
 3. Update Windows
+
 ➤ Go to Settings → Windows Update → Check for updates. Sometimes missing updates cause problems.
 
+
 4. Use Windows “Add a Printer” Wizard
+
 
 ➤ Go to Control Panel → Devices and Printers → Add a printer
 
@@ -78,10 +85,12 @@ Easy Fixes You Can Try:
 
 
 5. Try Brother Universal Printer Driver
+
 ➤ If nothing works, download the Universal Driver from Brother’s site. It works with many printers even if the exact one fails.
 
 
 6. Restart Your PC and Printer Together
+
 ➤ Turn both off, wait for 30 seconds, and turn them on again. This resets any minor issue.
 
 
