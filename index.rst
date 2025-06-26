@@ -21,7 +21,7 @@ Installing your Brother printer drivers on Windows is very easy. Even a kid can 
 
 2. Go to the Official Brother Website
 
-➤ Open your browser and type: https://support.brother.com
+➤ Open your browser and type: support.brother.com
 
 
 3. Search Your Printer Model
